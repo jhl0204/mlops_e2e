@@ -1,5 +1,6 @@
 # Directory-Specific Virtual Environments
 mlops/
+artifacts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
